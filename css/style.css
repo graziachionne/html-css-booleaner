@@ -1,0 +1,25 @@
+.gray{
+    color: rgb(169, 166, 166);
+}
+#autore{
+    color: rgb(68, 176, 212);
+}
+.immaginiTim{
+    margin-left: 1px;
+}
+.descrizione{
+    font-size: small;
+}
+.lista{
+    padding-left: 10px;
+}
+.intestazione{
+    color: white;
+    background-color: rgb(50, 151, 201);
+}
+th{
+    align-items: right;
+}
+.light_blue{
+    background-color: rgb(108, 190, 204);
+}
