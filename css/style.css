@@ -12,11 +12,16 @@ header{
     height: 50px;
     vertical-align:bottom;
 }
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 .gray{
     color: rgb(169, 166, 166);
 }
-#autore{
+a{
     color: rgb(68, 176, 212);
+    text-decoration: none;
 }
 .immaginiTim{
     margin-left: 1px;
